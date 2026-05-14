@@ -11,7 +11,7 @@ export default function HomePage() {
   return (
     <main className="flex-grow px-margin-mobile md:px-margin-desktop py-10 md:py-16 max-w-container-max mx-auto w-full">
       {/* Hero Section */}
-      <section className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-gutter items-center min-h-0 lg:min-h-[620px] mb-16 md:mb-24 pt-6 md:pt-10">
+      <section className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-gutter items-center min-h-0 lg:min-h-[620px] mb-16 md:mb-24 pt-2 md:pt-4">
         {/* Left Column */}
         <div className="lg:col-span-5 flex flex-col gap-stack-md z-10">
           {/* Badge */}
